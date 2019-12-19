@@ -1,0 +1,7 @@
+C:\NancyfxWS\Traveler5eEngine\bin\Debug\netstandard2.0\Traveler5eEngine.deps.json
+C:\NancyfxWS\Traveler5eEngine\bin\Debug\netstandard2.0\Traveler5eEngine.dll
+C:\NancyfxWS\Traveler5eEngine\bin\Debug\netstandard2.0\Traveler5eEngine.pdb
+C:\NancyfxWS\Traveler5eEngine\obj\Debug\netstandard2.0\Traveler5eEngine.AssemblyInfoInputs.cache
+C:\NancyfxWS\Traveler5eEngine\obj\Debug\netstandard2.0\Traveler5eEngine.AssemblyInfo.cs
+C:\NancyfxWS\Traveler5eEngine\obj\Debug\netstandard2.0\Traveler5eEngine.dll
+C:\NancyfxWS\Traveler5eEngine\obj\Debug\netstandard2.0\Traveler5eEngine.pdb

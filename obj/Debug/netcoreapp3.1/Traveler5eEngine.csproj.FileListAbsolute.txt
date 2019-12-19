@@ -1,0 +1,8 @@
+C:\NancyfxWS\Traveler5eEngine\obj\Debug\netcoreapp3.1\Traveler5eEngine.csprojAssemblyReference.cache
+C:\NancyfxWS\Traveler5eEngine\obj\Debug\netcoreapp3.1\Traveler5eEngine.AssemblyInfoInputs.cache
+C:\NancyfxWS\Traveler5eEngine\obj\Debug\netcoreapp3.1\Traveler5eEngine.AssemblyInfo.cs
+C:\NancyfxWS\Traveler5eEngine\bin\Debug\netcoreapp3.1\Traveler5eEngine.deps.json
+C:\NancyfxWS\Traveler5eEngine\bin\Debug\netcoreapp3.1\Traveler5eEngine.dll
+C:\NancyfxWS\Traveler5eEngine\bin\Debug\netcoreapp3.1\Traveler5eEngine.pdb
+C:\NancyfxWS\Traveler5eEngine\obj\Debug\netcoreapp3.1\Traveler5eEngine.dll
+C:\NancyfxWS\Traveler5eEngine\obj\Debug\netcoreapp3.1\Traveler5eEngine.pdb
