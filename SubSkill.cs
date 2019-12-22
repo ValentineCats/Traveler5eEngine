@@ -7,8 +7,8 @@ namespace Traveler5eEngine
     public class SubSkill
     {
 
-        private string subskillname;
-        private int ranks;
+        public string subskillname { get; set; }
+        public int ranks { get; set; }
         //public Skill skill;
 
         public SubSkill(string n)

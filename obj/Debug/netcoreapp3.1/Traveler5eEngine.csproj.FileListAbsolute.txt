@@ -6,3 +6,11 @@ C:\NancyfxWS\Traveler5eEngine\bin\Debug\netcoreapp3.1\Traveler5eEngine.dll
 C:\NancyfxWS\Traveler5eEngine\bin\Debug\netcoreapp3.1\Traveler5eEngine.pdb
 C:\NancyfxWS\Traveler5eEngine\obj\Debug\netcoreapp3.1\Traveler5eEngine.dll
 C:\NancyfxWS\Traveler5eEngine\obj\Debug\netcoreapp3.1\Traveler5eEngine.pdb
+C:\NancyfxWorkspace\Traveler5eEngine\bin\Debug\netcoreapp3.1\Traveler5eEngine.deps.json
+C:\NancyfxWorkspace\Traveler5eEngine\bin\Debug\netcoreapp3.1\Traveler5eEngine.dll
+C:\NancyfxWorkspace\Traveler5eEngine\bin\Debug\netcoreapp3.1\Traveler5eEngine.pdb
+C:\NancyfxWorkspace\Traveler5eEngine\obj\Debug\netcoreapp3.1\Traveler5eEngine.csprojAssemblyReference.cache
+C:\NancyfxWorkspace\Traveler5eEngine\obj\Debug\netcoreapp3.1\Traveler5eEngine.AssemblyInfoInputs.cache
+C:\NancyfxWorkspace\Traveler5eEngine\obj\Debug\netcoreapp3.1\Traveler5eEngine.AssemblyInfo.cs
+C:\NancyfxWorkspace\Traveler5eEngine\obj\Debug\netcoreapp3.1\Traveler5eEngine.dll
+C:\NancyfxWorkspace\Traveler5eEngine\obj\Debug\netcoreapp3.1\Traveler5eEngine.pdb

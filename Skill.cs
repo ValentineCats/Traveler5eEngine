@@ -6,11 +6,11 @@ namespace Traveler5eEngine
 {
     public class Skill
     {
-        private string skillname;
-        private bool proficient;
-        private int ranks;
-        private List<SubSkill> subskills;
-        private List<AbilityScore> scores;
+        public string skillname { get; set; }
+        public bool proficient { get; set; }
+        public int ranks { get; set; }
+        public List<SubSkill> subskills { get; set; }
+        public List<AbilityScore> scores { get; set; }
 
 
         /*

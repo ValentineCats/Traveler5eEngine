@@ -1,14 +1,18 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using System;
-using System.IO;
+
 
 
 namespace Traveler5eEngine
 {
- 
+
+    
     public class CharacterLogicContainer
     {
+       
+
+
         public string strings { get; set; }
         public List<AbilityScore> abilityScores { get; set; }
         public List<Skill> skills { get; set; }
@@ -23,6 +27,7 @@ namespace Traveler5eEngine
             this.homelands = new List<StartingLocation>();
         }
 
+        
 
 
         public void AddSkill(string name, List<string> abilities, List<string> subskills)
@@ -49,8 +54,7 @@ namespace Traveler5eEngine
             abilityScores.Add(new AbilityScore(name, score));
         }
 
-
-
+        
 
 
         public void AddHomeland(string name, string skill)

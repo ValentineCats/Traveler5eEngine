@@ -9,7 +9,7 @@ namespace Traveler5eEngine
         //string[] names;
         //int[] scores;
         //int[] maximums;
-        public List<AbilityScore> abilityScores;
+        public List<AbilityScore> abilityScores { get; set; }
         //public GameObject abilityScoreContainerObject;
 
         public AbilityScores()

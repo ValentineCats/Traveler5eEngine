@@ -6,8 +6,8 @@ namespace Traveler5eEngine
 {
     public class StartingLocation
     {
-        Skill skill;
-        string location;
+        public Skill skill { get; set; }
+        public string location { get; set; }
 
         public StartingLocation(string loc, Skill sk)
         {
