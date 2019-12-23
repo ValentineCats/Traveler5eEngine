@@ -13,7 +13,7 @@ namespace Traveler5eEngine
        
 
 
-        public string strings { get; set; }
+        public string characterName { get; set; }
         public List<AbilityScore> abilityScores { get; set; }
         public List<Skill> skills { get; set; }
         public List<StartingLocation> homelands { get; set; }
@@ -21,7 +21,7 @@ namespace Traveler5eEngine
 
         public CharacterLogicContainer()
         {
-            this.strings = " ";
+            this.characterName = " ";
             this.abilityScores = new List<AbilityScore>();
             this.skills = new List<Skill>();
             this.homelands = new List<StartingLocation>();
