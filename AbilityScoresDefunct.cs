@@ -4,7 +4,7 @@ using System;
 
 namespace Traveler5eEngine
 {
-    public class AbilityScores
+    public class AbilityScoresDefunct
     {
         //string[] names;
         //int[] scores;
@@ -12,7 +12,7 @@ namespace Traveler5eEngine
         public List<AbilityScore> abilityScores { get; set; }
         //public GameObject abilityScoreContainerObject;
 
-        public AbilityScores()
+        public AbilityScoresDefunct()
         {
             abilityScores = new List<AbilityScore>();
         }
